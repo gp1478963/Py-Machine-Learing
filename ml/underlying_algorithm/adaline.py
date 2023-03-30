@@ -169,7 +169,7 @@ def TestClassAdalineSGD():
     plt.show()
 
 
-TestClassAdalineSGD()
+TestClassAdaline()
 
 
 
